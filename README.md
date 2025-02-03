@@ -8,7 +8,9 @@
 ## 🚀 Sobre mí  
 Soy un profesional proactivo con una sólida formación en **Física**, actualmente cursando una **Maestría en Inteligencia Artificial** y **Telecomunicaciones**. Mi experiencia se centra en el desarrollo de soluciones tecnológicas aplicadas a la investigación científica, análisis de datos y optimización de sistemas.  
 
-🔬 Miembro activo en:
+---
+
+## 🔬 Miembro activo en
 🔹 **Grupo de Investigación de Física Médica (GINFIM - UNAC)**
 🔹 **Grupo de Inteligencia Artificial (GIART - UNAC)**
 Donde desarrollo algoritmos para modelado físico y análisis de datos masivos.
@@ -31,7 +33,6 @@ Donde desarrollo algoritmos para modelado físico y análisis de datos masivos.
 📌 **[Análisis de Datos Climáticos con Machine Learning](https://github.com/fernandobeyond/data-climate-ml)**  
 📌 **[Automatización de Reportes Académicos con Python y R](https://github.com/fernandobeyond/auto-report-academic)**  
 -->
----
 
 ## 📈 Estadísticas de GitHub  
 <!--
