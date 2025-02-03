@@ -1,7 +1,6 @@
 # ⚡ Fernando Flores Quiliche  
-### 📌 Físico | Est. Ingeniería de Telecomunicaciones | Maestrante en Inteligencia Artificial
 ### 👨‍💻 Programador | Data Science | AI Architecture | Soporte TI | Game Development
-
+#### 📌 Físico | Est. Ingeniería de Telecomunicaciones | Maestrante en Inteligencia Artificial
 📍 Lima, Perú | ✉️ ferfloq@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/ffloresq/) | 🖥️ [GitHub](https://github.com/fernandobeyond)
 
 ---
