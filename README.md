@@ -11,8 +11,8 @@ Soy un profesional proactivo con una sólida formación en **Física**, actualme
 ---
 
 ## 🔬 Miembro activo en
-🔹 **Grupo de Investigación de Física Médica (GINFIM - UNAC)**
-🔹 **Grupo de Inteligencia Artificial (GIART - UNAC)**
+🔹 **Grupo de Investigación de Física Médica (GINFIM - UNAC)**  
+🔹 **Grupo de Inteligencia Artificial (GIART - UNAC)**  
 Donde desarrollo algoritmos para modelado físico y análisis de datos masivos.
 
 ---
