@@ -1,60 +1,80 @@
-# ⚡ Fernando Flores Quiliche  
-### 👨‍💻 Programador | Data Science | AI Architecture | Soporte TI | Game Development
-#### 📌 Físico | Est. Ingeniería de Telecomunicaciones | Maestrante en Inteligencia Artificial
-📍 Lima, Perú | ✉️ ferfloq@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/ffloresq/) | 🖥️ [GitHub](https://github.com/fernandobeyond)
+<div align="center">
+# Fernando Flores Quiliche
+### AI & Data Engineer · Machine Learning · Deep Learning
+**MSc Artificial Intelligence — UNI Perú · Huawei ICT Global 3rd Prize 2025**
+📍 Lima, Perú &nbsp;·&nbsp; ✉️ [ferfloq@gmail.com](mailto:ferfloq@gmail.com) &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ffloresq/)
+</div>
 
 ---
 
-## 🚀 Sobre mí  
-Soy un profesional proactivo con una sólida formación en **Física**, actualmente cursando una **Maestría en Inteligencia Artificial** y **Telecomunicaciones**. Mi experiencia se centra en el desarrollo de soluciones tecnológicas aplicadas a la investigación científica, análisis de datos y optimización de sistemas.  
+## Sobre mí
+Soy AI & Data Engineer con Maestría en Inteligencia Artificial (UNI) y Maestría en Ingeniería de Sistemas (UPN). Mi formación en Física me da algo que pocos perfiles tech tienen: rigor analítico para modelar problemas complejos antes de escribir una sola línea de código.
+Construyo modelos de Machine Learning, pipelines de datos y soluciones de IA que convierten información desordenada en decisiones claras. Actualmente docente de Ciencia de Datos e IA en ISAT, donde también lidero la creación de dos nuevas carreras técnicas: Redes y Comunicaciones y Cloud Computing.
+**Roles donde genero mayor impacto:** Data Analyst · BI Analyst · AI Engineer · Data Scientist · Data Engineer · AI Architect
 
 ---
 
-## 🔬 Miembro activo en
-🔹 **Grupo de Investigación de Física Médica (GINFIM - UNAC)**  
-🔹 **Grupo de Inteligencia Artificial (GIART - UNAC)**  
-Donde desarrollo algoritmos para modelado físico y análisis de datos masivos.
+## Resultados que respaldan esto
+🏆 **Huawei ICT Competition 2024-2025** — 3rd Prize Global, Computing Track (Final presencial en Shenzhen, China)
+🎓 Co-diseñé la malla curricular de la carrera de Ciencia de Datos en la Universidad Nacional del Callao — como parte del equipo fundador del programa
+📊 Automaticé procesos institucionales con Python y R en la UNAC: generación masiva de certificados y reportes estadísticos para auditorías ISO 9001 e ISO 21001 — reduciendo tiempos de procesamiento de horas a segundos
+🌐 Lideré la modernización de infraestructura TI para más de 1,200 usuarios activos, reduciendo incidencias críticas de red en ~60%
 
 ---
 
-## 🛠️ Habilidades Técnicas  
-💡 **Lenguajes de Programación:** Python, R, C++, C#, Fortran, Matlab, Scilab  
-📊 **Análisis & Big Data:** SQL, Power BI, Apache Hadoop, MongoDB, PostgreSQL  
-🌐 **Desarrollo Web:** HTML, CSS, JavaScript, Node.js, React  
-☁️ **Cloud Computing:** Microsoft Azure  
-⚡ **Infraestructura & Servidores:** Linux, Pfsense, Cisco  
-🎨 **Diseño & Multimedia:** Adobe Photoshop, Illustrator, Premiere, After Effects  
-📂 **Gestión Pública:** SIGA-MEF, CEPLAN, SIAF-RP  
-
----
-<!--
-## 🏆 Proyectos Destacados  
-📌 **[Sistema Experto para Diagnóstico de Cáncer de Mama](https://github.com/fernandobeyond/sistema-experto-breast-cancer)**  
-📌 **[Análisis de Datos Climáticos con Machine Learning](https://github.com/fernandobeyond/data-climate-ml)**  
-📌 **[Automatización de Reportes Académicos con Python y R](https://github.com/fernandobeyond/auto-report-academic)**  
--->
-
-## 📈 Estadísticas de GitHub  
-<!--
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandobeyond&show_icons=true&theme=radical)  
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobeyond&layout=compact&theme=tokyonight)
+## Miembro activo en
+- **Grupo de Investigación de Física Médica** — GINFIM, UNAC
+- **Grupo de Inteligencia Artificial** — GIART, UNAC
+Desarrollando algoritmos para modelado físico, visión por computador y análisis de datos masivos.
 
 ---
 
-🚀 **¡Explorando, aprendiendo y construyendo el futuro con Inteligencia Artificial y Ciencia de Datos!**  
-¡Si tienes alguna colaboración o idea, no dudes en contactarme! 🤝
-<!--
-**fernandobeyond/fernandobeyond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack técnico
+**Lenguajes**
+`Python` `R` `SQL` `C++` `C#` `MATLAB` `Fortran`
 
-Here are some ideas to get you started:
+**Machine Learning & Deep Learning**
+`TensorFlow` `Keras` `Scikit-learn` `YOLO` `OpenCV`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data Engineering & Big Data**
+`Apache Hadoop` `Spark` `MongoDB` `PostgreSQL` `ETL Pipelines` `Databricks`
+
+**BI & Visualización**
+`Power BI` `Excel Avanzado`
+
+**Cloud & Infraestructura**
+`Microsoft Azure` `AWS` `Linux` `pfSense` `Cisco`
+
+**IoT & Sistemas Embebidos**
+`Raspberry Pi` `ESP32`
+
+**Desarrollo Web**
+`HTML` `CSS` `JavaScript`
+
+---
+
+## Proyecto destacado
+
+**[BowserSecurity](https://github.com/fernandobeyond/BowserSecurity)** — Detección Inteligente de Situaciones de Peligro mediante Visión por Computador
+Modelo de detección de amenazas en tiempo real desplegado en dispositivo de borde (Raspberry Pi) con múltiples cámaras simultáneas, identificando amenazas con velocidad superior a la respuesta humana.
+`Python` `YOLO` `OpenCV` `Raspberry Pi`
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobeyond&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**Construyendo el puente entre Física, IA y Telecomunicaciones.**
+
+¿Colaboración, consultoría o una idea que discutir? Escríbeme por [LinkedIn](https://www.linkedin.com/in/ffloresq/) o a [ferfloq@gmail.com](mailto:ferfloq@gmail.com)
+
+</div>
