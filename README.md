@@ -88,7 +88,8 @@ Investigación aplicando Deep Learning a la gestión dinámica del espectro para
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fernandobeyond&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.athul.dev/api/top-langs/?username=fernandobeyond&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobeyond&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
 
