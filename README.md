@@ -82,15 +82,13 @@ Modelado y visualización de datos de física nuclear aplicando métodos computa
 Investigación aplicando Deep Learning a la gestión dinámica del espectro para mitigar interferencia en redes WiFi.
 `Python` `Deep Learning` `Jupyter Notebook` `Telecomunicaciones`
 
-*Portafolio completo en [github.com/fernandobeyond](https://github.com/fernandobeyond?tab=repositories) — incluye proyectos académicos, agentes de IA y desarrollo full-stack.*
-
 ---
 
 ## Estadísticas de GitHub
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobeyond&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fernandobeyond&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
